@@ -9,11 +9,6 @@ Functions:
 
 Usage:
 You can use the 'check_is_prime' function to determine whether a specific number is prime or not.
-
-Example:
-from prime_checker import check_is_prime
-is_prime = check_is_prime(17)
-print(is_prime)  # Output: True
 """
 
 def check_is_prime(number):
